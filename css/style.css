@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #E6E6FA;
+}
+.cabecalho{
+	margin-left: 5%;
+}
+.descricao{
+    margin-top: 20px;
+	margin-left:10%;
+	margin-right:10%;
+}
+.redes{
+	width: 20%;
+	float:left;
+    margin-left: 20px;
+    padding-left: 95px;
+    margin-top: -10px;
+}
+.redes ul li{
+	padding: 3px;
+	display: inline-block;
+	float:left;
+	list-style: none;
+}
+.formacao{
+    margin-left: 130px;
+    padding-top: 40px;
+}
+.formacao p{
+    font-size: 14;
+}
